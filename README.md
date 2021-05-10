@@ -1,16 +1,16 @@
-### Hi, I'm Emmanuel 👋
+### Hi, I'm Emmanuel 👨👋
 
 
-## Who am I?
-- 💻 Data Scientist Student 🥰.
+## Who am I 👨?
+- 💻 Data Scientist Student.
 - 📊 Business Intelligence.
 - 🎓 Bachelor of Information Systems - UNIFEB.
 - 🎓 Master in Business Administration Project Management - UNOPAR.
-- 🥰 Data Lover
-- 📚 Data Driven
+- 🥰 Data Lover.
+- 📚 Data Driven.
 
 
-## Skills 💻
+## Skills 👨💻
 - 🐍 Python.
 - 📈 R.
 - 🗄 SQL.
