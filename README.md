@@ -20,4 +20,4 @@
 
 
 ## Find me around the world 🌎
-- [Linkedin] : (https://www.linkedin.com/in/emmanuel-orestes-torres-038a5869/)
+- [Linkedin] : https://www.linkedin.com/in/emmanuel-orestes-torres-038a5869/
