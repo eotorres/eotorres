@@ -1,11 +1,7 @@
 ### Hi there 👋
 
-<!--
-**eotorres/eotorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-Who am I?
+## Who am I?
 💻 Data Scientist Student 🥰.
 📊 Business Intelligence.
 🎓 Bachelor of Information Systems - UNIFEB.
@@ -13,7 +9,7 @@ Who am I?
 🥰 Data Lover
 
 
-Skills 💻
+## Skills 💻
 🐍 Python.
 📈 R.
 🗄 SQL.
@@ -24,4 +20,4 @@ Skills 💻
 
 
 Find me around the world 🌎
-Linkedin : (https://www.linkedin.com/in/emmanuel-orestes-torres-038a5869/)
+[Linkedin] : (https://www.linkedin.com/in/emmanuel-orestes-torres-038a5869/)
