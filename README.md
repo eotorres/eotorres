@@ -7,6 +7,7 @@
 - 🎓 Bachelor of Information Systems - UNIFEB.
 - 🎓 Master in Business Administration Project Management - UNOPAR.
 - 🥰 Data Lover
+- 📚 Data Driven
 
 
 ## Skills 💻
