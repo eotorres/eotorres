@@ -16,7 +16,7 @@
 - 🧮 Power BI.
 - 🔮 Machine Learning.
 - 📊 Data Visualization
-- 🧪 Survival Analysis.
+- 📑 Advanced Analysis.
 
 
 ## Find me around the world 🌎
