@@ -19,5 +19,5 @@
 - 📑 Advanced Analysis.
 
 
-## Find me around the world 🌎
+## Find me  🌎
 - [Linkedin] : https://www.linkedin.com/in/emmanuel-orestes-torres-038a5869/
