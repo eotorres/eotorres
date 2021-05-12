@@ -26,4 +26,4 @@
 ## Projects ✔️
 
 - [BeautifulSoup - Selenium](https://github.com/eotorres/BeautifulSoup-Selenium)
-- [Repositorio_Pandas](https://github.com/eotorres/Repositorio-Pandas)
+- [Repositorio - Pandas](https://github.com/eotorres/Repositorio-Pandas)
