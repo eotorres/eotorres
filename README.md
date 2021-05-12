@@ -1,4 +1,4 @@
-### Hi, I'm Emmanuel 👨♐👋
+### Hi, I'm Emmanuel 👋
 
 
 ## Who am I ?
@@ -23,7 +23,7 @@
 - [Linkedin](https://www.linkedin.com/in/emmanuel-orestes-torres-038a5869/)
 
 
-## Projects ✔️
+## Projects 
 
 - [BeautifulSoup - Selenium (Bot_WhatsApp)](https://github.com/eotorres/BeautifulSoup-Selenium)
 - [Repositorio - Pandas](https://github.com/eotorres/Repositorio-Pandas)
