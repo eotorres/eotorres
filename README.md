@@ -27,3 +27,5 @@
 
 - [BeautifulSoup - Selenium](https://github.com/eotorres/BeautifulSoup-Selenium)
 - [Repositorio - Pandas](https://github.com/eotorres/Repositorio-Pandas)
+- [Agro - Valor @boi](https://github.com/eotorres/Agro_arrobaboi)
+
