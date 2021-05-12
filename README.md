@@ -25,5 +25,5 @@
 
 ## Projects ✔️
 
-- [Bot_Whatsapp](https://github.com/eotorres/BeautifulSoup-Selenium)
+- [BeautifulSoup - Selenium](https://github.com/eotorres/BeautifulSoup-Selenium)
 - [Repositorio_Pandas](https://github.com/eotorres/Repositorio-Pandas)
