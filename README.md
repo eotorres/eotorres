@@ -21,3 +21,9 @@
 
 ## Find me  🌎
 - [Linkedin](https://www.linkedin.com/in/emmanuel-orestes-torres-038a5869/)
+
+
+## Projects ✔️
+
+- [Bot_Whatsapp](https://github.com/eotorres/BeautifulSoup-Selenium)
+- [Repositorio_Pandas](https://github.com/eotorres/Repositorio-Pandas)
