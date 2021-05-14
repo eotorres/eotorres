@@ -14,8 +14,8 @@
 - 📋 SQL.
 - 🧮 Power BI.
 - 🔮 Machine Learning.
-- 📊 Data Visualization
-- 📑 Advanced Analysis.
+- 📊 Data Visualization.
+- 🎲 Data Analysis.
 
 
 ## Find me  🌎
