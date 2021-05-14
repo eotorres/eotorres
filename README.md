@@ -6,12 +6,11 @@
 - 📊 Business Intelligence.
 - 🎓 Bachelor of Information Systems - UNIFEB.
 - 🎓 Master in Business Administration Project Management - UNOPAR.
-- 📚 Data Driven.
+- 💡 Data Driven.
 
 
 ## Skills 💻
 - 🐍 Python.
-- 📈 R.
 - 📋 SQL.
 - 🧮 Power BI.
 - 🔮 Machine Learning.
