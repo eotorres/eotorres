@@ -24,7 +24,7 @@
 
 ## Projects 
 
-- [BeautifulSoup/Selenium (Bot_WhatsApp)](https://github.com/eotorres/BeautifulSoup-Selenium)
+- [Bot_WhatsApp](https://github.com/eotorres/BeautifulSoup-Selenium)
 - [Agro - Valor @boi](https://github.com/eotorres/Agro_arrobaboi)
 - [Dominando DataScience](https://github.com/eotorres/Dominando_datascience)
 - [Previsão_de_vendas](https://github.com/eotorres/Previsao_vendas_sklearn/tree/main)
