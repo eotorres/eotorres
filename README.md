@@ -25,8 +25,8 @@
 ## Projects 
 
 
-- [WebScraping](https://github.com/eotorres/Agro_arrobaboi)
+- [WebScraping - ArrobaBoi](https://github.com/eotorres/Agro_arrobaboi)
 - [Dominando DataScience](https://github.com/eotorres/Dominando_datascience)
-- [Sklearn](https://github.com/eotorres/Previsao_vendas_sklearn/tree/main)
-- [WebScraping](https://github.com/eotorres/Scraping_Moedas)
+- [Sklearn - Previsão de Vendas](https://github.com/eotorres/Previsao_vendas_sklearn/tree/main)
+- [WebScraping - Valor Moeda](https://github.com/eotorres/Scraping_Moedas)
 
