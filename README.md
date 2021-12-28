@@ -29,7 +29,7 @@
 - [WebScraping - Valor Moeda](https://github.com/eotorres/Scraping_Moedas)
 - [WebScraping - CFOPCrawler](https://github.com/eotorres/CFOPCrawler) 
 - [Sklearn - Previsão de Vendas](https://github.com/eotorres/Previsao_vendas_sklearn/tree/main)
-- [Pycaret - Previsão e deploy Streamlit](https://github.com/eotorres/Previsao_e_Deploy)
+
 
 ## Courses
 - [FLAI - Dominando DataScience](https://github.com/eotorres/Dominando_datascience)
