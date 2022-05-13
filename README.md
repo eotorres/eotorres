@@ -28,7 +28,7 @@
 - [WebScraping - ArrobaBoi](https://github.com/eotorres/Agro_arrobaboi)
 - [WebScraping - CFOPCrawler](https://github.com/eotorres/CFOPCrawler) 
 - [Previsão de Vendas](https://github.com/eotorres/Previsao_vendas_sklearn/tree/main)
-- [Analise exploratorio e previsão plano de saúde](https://github.com/eotorres/Medical)
+- [Analise exploratoria e previsão plano de saúde](https://github.com/eotorres/Medical)
 
 
 ## Courses
