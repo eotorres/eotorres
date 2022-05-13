@@ -24,9 +24,8 @@
 
 ## Projects 
 
-
+- [Reconhecimento Uso de Mascara](https://github.com/eotorres/Covid19---Reconhecimento-)
 - [WebScraping - ArrobaBoi](https://github.com/eotorres/Agro_arrobaboi)
-- [WebScraping - Valor Moeda](https://github.com/eotorres/Scraping_Moedas)
 - [WebScraping - CFOPCrawler](https://github.com/eotorres/CFOPCrawler) 
 - [Sklearn - Previsão de Vendas](https://github.com/eotorres/Previsao_vendas_sklearn/tree/main)
 
