@@ -31,7 +31,9 @@
 
 
 ## Courses
+- [FLAI - Python for DataScience](https://github.com/eotorres/Python_DataScience)
 - [FLAI - Dominando DataScience](https://github.com/eotorres/Dominando_datascience)
+- [Hastag Treinamentos](https://github.com/eotorres/Intensivo_python_hastagtreinamentos)
 
 
 
