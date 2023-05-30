@@ -24,17 +24,12 @@
 
 ## Projects 
 
-- [Reconhecimento - Uso de mascara covid-19](https://github.com/eotorres/Covid19---Reconhecimento-)
-- [WebScraping - ArrobaBoi](https://github.com/eotorres/Agro_arrobaboi)
-- [WebScraping - CFOPCrawler](https://github.com/eotorres/CFOPCrawler) 
-- [Previsão de Vendas](https://github.com/eotorres/Previsao_vendas_sklearn/tree/main)
-- [Analise exploratoria e previsão plano de saúde](https://github.com/eotorres/Medical)
+- [Previsão de Demanda](https://github.com/eotorres/demand_forecast)
 
 
 ## Courses
-- [FLAI - Python for DataScience](https://github.com/eotorres/Python_DataScience)
+- [Python for DataScience](https://github.com/eotorres/Python_Completo_Udemy)
 - [FLAI - Dominando DataScience](https://github.com/eotorres/Dominando_datascience)
-- [Hastag Treinamentos - Intensivo de Python](https://github.com/eotorres/Intensivo_python_hastagtreinamentos)
 - [Data Viking - Analise De Dados com Python](https://github.com/eotorres/Analise_de_dados_python)
 
 
