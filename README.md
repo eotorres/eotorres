@@ -2,7 +2,8 @@
 
 
 ## Who am I ?
-- 💻 Data Scientist Student.
+- 💻 Data Scientist.
+- 💻 Data Engineering.
 - 📊 Business Intelligence.
 - 🎓 Bachelor of Information Systems - UNIFEB.
 - 🎓 Master in Business Administration Project Management - UNOPAR.
