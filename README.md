@@ -1,6 +1,5 @@
 ### Hi, I'm Emmanuel 👋
 
-
 ## Who am I ?
 - 💻 Data Scientist.
 - 💻 Data Engineering.
@@ -25,7 +24,7 @@
 
 ## Projects 
 
-- [Previsão de Demanda](https://github.com/eotorres/demand_forecast)
+- [Previsão de Copa do Mundo Feminina 2023](https://github.com/eotorres/CUPWC2023)
 
 
 ## Courses
