@@ -25,6 +25,7 @@
 ## Projects 
 
 - [Previsão de Copa do Mundo Feminina 2023](https://github.com/eotorres/CUPWC2023)
+- [Previsão de series temporais](https://github.com/eotorres/prev_series_temporais)
 
 
 ## Courses
