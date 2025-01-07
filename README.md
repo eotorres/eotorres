@@ -9,14 +9,15 @@
 - 💡 Data Driven.
 
 
-## Skills 💻
+## Skills
 - 🐍 Python.
 - 📋 SQL.
 - 🧮 Power BI.
 - 🔮 Machine Learning.
 - 📊 Data Visualization.
 - 🎲 Data Analysis.
-
+- ☁️ (Multi-cloud).
+- 💻 Engenheira de dados 
 
 ## Find me  🌎
 - [Linkedin](https://www.linkedin.com/in/emmanuel-orestes-torres-038a5869/)
