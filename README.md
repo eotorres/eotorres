@@ -17,7 +17,6 @@
 - 📊 Data Visualization.
 - 🎲 Data Analysis.
 - ☁️ (Multi-cloud).
-- 💻 Engenheira de dados 
 
 ## Find me  🌎
 - [Linkedin](https://www.linkedin.com/in/emmanuel-orestes-torres-038a5869/)
