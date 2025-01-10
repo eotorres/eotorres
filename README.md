@@ -16,7 +16,7 @@
 - 🔮 Machine Learning.
 - 📊 Data Visualization.
 - 🎲 Data Analysis.
-- ☁️ (Multi-cloud).
+- ☁️ Multi-cloud.
 
 ## Find me  🌎
 - [Linkedin](https://www.linkedin.com/in/emmanuel-orestes-torres-038a5869/)
