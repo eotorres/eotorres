@@ -1,37 +1,51 @@
-### Hi, I'm Emmanuel 👋
+# Hi, I'm Emmanuel 👋  
 
-## Who am I ?
-- 💻 Data Scientist.
-- 💻 Data Engineering.
-- 📊 Business Intelligence.
-- 🎓 Bachelor of Information Systems - UNIFEB.
-- 🎓 Master in Business Administration Project Management - UNOPAR.
-- 💡 Data Driven.
+🚀 **Data Scientist | Data Engineer | Business Intelligence Analyst**  
+💡 Apaixonado por soluções **Data Driven** e transformação de dados em insights estratégicos.
 
+---
 
-## Skills
-- 🐍 Python.
-- 📋 SQL.
-- 🧮 Power BI.
-- 🔮 Machine Learning.
-- 📊 Data Visualization.
-- 🎲 Data Analysis.
-- ☁️ Multi-cloud.
+## 👨‍💻 Sobre mim  
 
-## Find me  🌎
-- [Linkedin](https://www.linkedin.com/in/emmanuel-orestes-torres-038a5869/)
+- 💻 Atuo com **Data** e **Business Intelligence**  
+- 🎓 **Bacharel em Sistemas de Informação** – UNIFEB  
+- 🎓 **MBA em Gestão de Projetos** – UNOPAR  
+- 📊 Experiência em análise de dados, visualização e modelagem preditiva  
+- ☁️ Vivência em ambientes **Multi-Cloud**
 
+---
 
-## Projects 
+## 🛠️ Skills & Tecnologias  
 
-- [Previsão de Copa do Mundo Feminina 2023](https://github.com/eotorres/CUPWC2023)
-- [Previsão de series temporais](https://github.com/eotorres/prev_series_temporais)
+- 🐍 **Python**  
+- 📋 **SQL**  
+- 🧮 **Power BI**  
+- 🔮 **Machine Learning**  
+- 📊 **Data Visualization**  
+- 🎲 **Data Analysis**  
+- ☁️ **Multi-Cloud (AWS, Azure, GCP)**  
 
+---
 
-## Courses
-- [Python for DataScience](https://github.com/eotorres/Python_Completo_Udemy)
-- [FLAI - Dominando DataScience](https://github.com/eotorres/Dominando_datascience)
-- [Data Viking - Analise De Dados com Python](https://github.com/eotorres/Analise_de_dados_python)
+## 📌 Projetos  
 
+- ⚽ **Previsão da Copa do Mundo Feminina 2023**  
+- 📈 **Previsão de Séries Temporais**  
 
+> Confira meus repositórios para ver os projetos completos, códigos e análises.
 
+---
+
+## 📚 Cursos & Certificações  
+
+- 🐍 **Python for Data Science**  
+- 📊 **FLAI – Dominando Data Science**  
+- 🎲 **Data Viking – Análise de Dados com Python**
+
+---
+
+## 🌎 Onde me encontrar  
+
+- 💼 [LinkedIn](https://www.linkedin.com/)  
+
+---
