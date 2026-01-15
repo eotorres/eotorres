@@ -1,7 +1,6 @@
 # Hi, I'm Emmanuel 👋  
 
-🚀 **Data Scientist | Data Engineer | Business Intelligence Analyst**  
-💡 Apaixonado por soluções **Data Driven** e transformação de dados em insights estratégicos.
+💡 Apaixonado por soluções **Data** e transformação de dados em insights estratégicos.
 
 
 ## 🌎 Onde me encontrar  
@@ -43,6 +42,6 @@
 
 ## 📚 Cursos & Certificações  
 
-- **Python • Análise de Dados • Data Science • Data Engineering • Cloud** (https://github.com/eotorres/cursos)
+- **Python | Análise de Dados | Data Science | Data Engineering | Cloud** (https://github.com/eotorres/cursos)
 ---
 
