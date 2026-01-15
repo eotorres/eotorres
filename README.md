@@ -3,6 +3,11 @@
 🚀 **Data Scientist | Data Engineer | Business Intelligence Analyst**  
 💡 Apaixonado por soluções **Data Driven** e transformação de dados em insights estratégicos.
 
+
+## 🌎 Onde me encontrar  
+
+- 💼 [LinkedIn](https://www.linkedin.com/)  
+
 ---
 
 ## 👨‍💻 Sobre mim  
@@ -44,8 +49,3 @@
 
 ---
 
-## 🌎 Onde me encontrar  
-
-- 💼 [LinkedIn](https://www.linkedin.com/)  
-
----
