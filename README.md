@@ -34,8 +34,8 @@
 
 ## 📌 Projetos  
 
-- ⚽ **Previsão da Copa do Mundo Feminina 2023**  
-- 📈 **Previsão de Séries Temporais**  
+- ⚽ **Previsão da Copa do Mundo Feminina 2023**  (https://github.com/eotorres/CUPWC2023)
+- 📈 **Previsão de Séries Temporais**  ((https://github.com/eotorres/prev_series_temporais)
 
 > Confira meus repositórios para ver os projetos completos, códigos e análises.
 
