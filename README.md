@@ -12,8 +12,8 @@
 ## 👨‍💻 Sobre mim  
 
 - 💻 Atuo com **Data** e **Business Intelligence**  
-- 🎓 **Bacharel em Sistemas de Informação** – UNIFEB  
-- 🎓 **MBA em Gestão de Projetos** – UNOPAR  
+- 🎓 **Bacharel em Sistemas de Informação**  
+- 🎓 **MBA em Gestão de Projetos** 
 - 📊 Experiência em análise de dados, visualização e modelagem preditiva  
 - ☁️ Vivência em ambientes **Multi-Cloud**
 
