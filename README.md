@@ -27,7 +27,7 @@
 - 🔮 **Machine Learning**  
 - 📊 **Data Visualization**  
 - 🎲 **Data Analysis**  
-- ☁️ **Multi-Cloud (AWS, Azure, GCP)**  
+- ☁️ **Multi-Cloud**  
 
 ---
 
